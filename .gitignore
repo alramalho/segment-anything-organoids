@@ -1,3 +1,5 @@
 models/**/*.pth
+models/**/*.pt
 demo/masks/*
 **/.venv
+**/*__pycache__/*
