@@ -3,3 +3,4 @@ models/**/*.pt
 demo/masks/*
 **/.venv
 **/*__pycache__/*
+demo/results/*
