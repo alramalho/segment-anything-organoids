@@ -19,4 +19,4 @@ This repo is an initial exploration of using [SAM](https://github.com/facebookre
   <img src="https://github.com/alramalho/segment-anything-organoids/assets/47791391/b748395f-78a2-40e3-8a00-fe355bf831dc" width="400"/>
 </p>
 
-You can find the code for these images in [demo notebook](https://github.com/alramalho/segment-anything-organoids/blob/main/demo/code/demo-fast.ipynb)
+You can find the code for these images in the demo notebooks
